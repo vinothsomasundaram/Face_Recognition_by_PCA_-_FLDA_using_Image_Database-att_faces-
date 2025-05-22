@@ -1,1 +1,1 @@
-# Face_Recognition_by_PCA_-_FLDA_using_Image_Database-att_faces-
+# Face_Recognition_by_PCA_FLDA_using_Image_Database-att_faces
